@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to BoardingPl App GitHub Pages
 
 You can download demo version of [BoardingPl App](https://play.google.com/store/apps/details?id=com.stargatex.lahiru.boardingapp) from [Play Store](https://play.google.com/store/apps/developer?id=LahiruStargateX)
 
