@@ -6,10 +6,7 @@ You can download demo version of [BoardingPl App](https://play.google.com/store/
 
 ### Intro
 
-Lightweight and easy-to-use
 
-
-
-[Link](url) and ![Image](src)
 ```
+updating...
 
